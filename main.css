@@ -1,0 +1,12 @@
+body {
+	background-color: red;
+	color: purple;
+	text-align: center;
+}
+
+#mainCanvas {
+width: 300px;
+height: 594px;
+border: solid 1px white;
+background-image: url("mushroom.png");
+}
